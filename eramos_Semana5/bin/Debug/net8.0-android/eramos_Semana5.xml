@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>eramos_Semana5</name>
+    </assembly>
+    <members>
+        <member name="M:eramos_Semana5.PersonRepository.AddNewPerson(System.String)">
+            <summary>
+            Adds a new person to the database with the given name.
+            </summary>
+            <param name="name">The name of the person to add.</param>
+            <exception cref="T:System.Exception">Thrown if the name is null or empty.</exception>
+        </member>
+        <member name="M:eramos_Semana5.PersonRepository.GetAllPeople">
+            <summary>
+            Retrieves all people from the database.
+            </summary>
+            <returns>A list of Person objects representing all people in the database.</returns>
+            <exception cref="T:System.Exception">Thrown if there is an error retrieving the data.</exception>
+        </member>
+        <member name="M:eramos_Semana5.PersonRepository.DeletePerson(System.Int32)">
+            <summary>
+            Deletes a person record from the database based on the provided ID.
+            </summary>
+            <param name="id">The ID of the person to be deleted.</param>
+            <exception cref="T:System.Exception">Thrown if there is an error during the deletion process.</exception>
+        </member>
+        <member name="M:MauiApp1.vHome.btnAdd_Clicked(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Clicked event of the btnAdd control.
+            Clears the status message, adds a new person to the repository using the text from txtName,
+            and updates the status message with the result of the operation.
+            </summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+    </members>
+</doc>
