@@ -1073,3 +1073,4 @@
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-android/android/assets/SQLitePCLRaw.provider.dynamic_cdecl.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-android/android/assets/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-android/android/assets/SQLitePCLRaw.provider.sqlite3.dll
+/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-android/eramos_Semana5.sourcelink.json

@@ -315,12 +315,10 @@
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-ios/iossimulator-arm64/SQLitePCLRaw.core.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-ios/iossimulator-arm64/SQLitePCLRaw.provider.dynamic_cdecl.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-ios/iossimulator-arm64/SQLitePCLRaw.provider.sqlite3.dll
+/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_Semana5.sourcelink.json
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
-/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.HotReload.Forms.stamp
-/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualStudio.DesignTools.MobileTapContracts.stamp
-/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualStudio.DesignTools.TapContract.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/SQLite-net.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/SQLitePCLRaw.batteries_v2.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/SQLitePCLRaw.core.stamp

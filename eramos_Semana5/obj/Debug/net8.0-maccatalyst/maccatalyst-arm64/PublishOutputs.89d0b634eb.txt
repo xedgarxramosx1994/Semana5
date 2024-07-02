@@ -55,9 +55,6 @@
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/SQLitePCLRaw.provider.dynamic_cdecl.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/SQLitePCLRaw.provider.sqlite3.dll
-/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/Microsoft.Maui.Controls.HotReload.Forms.dll
-/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/eramos_Semana5.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana5/eramos_Semana5/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana5.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll

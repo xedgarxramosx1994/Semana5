@@ -40,8 +40,13 @@
                     Grid.Row="2"
                     Grid.Column="0"
                     Text="Obtener todos los registros"></Button>
+            <Button x:Name="btnSaveEdit"
+                    Clicked="btnSaveEdit_Clicked"
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    Text="Guardar cambios"/>
             <CollectionView x:Name="listPerson"
-                            Grid.Row="3"
+                            Grid.Row="4"
                             Grid.Column="0">
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
@@ -49,10 +54,18 @@
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
                             </Grid.ColumnDefinitions>
                             <Label Text="{Binding Id}"/>
                             <Label Grid.Column="1"
                                    Text="{Binding Name}"/>
+                            <Button Grid.Column="2"
+                                    Text="Editar"
+                                    Clicked="btnEdit_Clicked"/>
+                            <Button Grid.Column="3"
+                                    Text="Eliminar"
+                                    Clicked="btnDelete_Clicked"/>
                         </Grid>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
